@@ -32,9 +32,9 @@ There are so many internships out there for people interested in tech and studyi
 * [LinkedIn](Linkedin.com)
 
 * [Uncubed Entry Newsletter](https://uncubed.com/entry/sign-up/): "Want hand-picked, entry-level tech jobs and internships delivered to your inbox weekly?"
- * [Uncubed](Uncubed.com) is a tech/digital specific job board that's all about connecting talent to companies ranging from new, up-and-coming startups to large, established corporations
- * The **Uncubed Entry Newsletter** is an awesome, weekly compilation of featured internships and entry-level jobs -- great for students looking for opportunites catered to them! 
- * The newsletter also features interesting and relevant tidbits of tech news, as well as interview tips and sample interview problems
+  * [Uncubed](Uncubed.com) is a tech/digital specific job board that's all about connecting talent to companies ranging from new, up-and-coming startups to large, established corporations
+  * The **Uncubed Entry Newsletter** is an awesome, weekly compilation of featured internships and entry-level jobs -- great for students looking for opportunites catered to them! 
+  * The newsletter also features interesting and relevant tidbits of tech news, as well as interview tips and sample interview problems
 
 ### Research 
 
