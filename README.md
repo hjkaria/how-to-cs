@@ -1,4 +1,4 @@
-# How to "CSE": A Simple (and Growing) Guide
+# `How to Computer Science`: A Simple (and Growing) Guide
 ## There are so many opportunities within (and beyond) Computer Science! 
 
 Here's a list of things that I found really useful to know (and worth taking advantage of). While it's by no means a complete list, it can be a good starting point. 
