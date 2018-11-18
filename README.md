@@ -1,5 +1,5 @@
 # `How to Computer Science`: A Simple (and Growing) Guide
-## Also want to point out that there isn't just "one" way to CS
+## Also want to point out that there isn't just "one way" to CS and anyone who says that, well... :eyes:
 
 If there's one thing people should know about Computer Science, it is its inherent *freedom*. There are so many things you can do with it, which translates to so many `opportunities`. Here's a list of things that I've found to be useful, in my time as an undergrad studying computer science at the University at Buffalo. While it's by no means a complete list, it can be a good starting point. 
 
