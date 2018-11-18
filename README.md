@@ -1,5 +1,5 @@
 # How to "CSE"
-## A general guide/useful tips about things I found helpful to know, navigating the opportunities Computer Science opens up. 
+## There are so many opportunities within (and beyond) Computer Science! Here's a list of things that I found really useful to know (and worth taking advantage of) 
 ---
 ### Internships
 There are so many internships out there for people interested in tech and studying CS. There are also internships geared towards underclassmen (Freshman and Sophomores). It can be intimidating, applying for jobs -- but the only guaranteed way you won't get the job is if you don't apply!
@@ -20,12 +20,17 @@ There are so many internships out there for people interested in tech and studyi
 
 #### General intersnhip/job boards (to find opportunities): 
 * [intern.supply](intern.supply)
-* [Glassdoor](Glassdoor.com)
-* LinkedIn
-* Uncubed 
+** This site has sooo many internship opportunities available, and is a good place to start looking for general places to apply
 
-### Study Resources
+* [Glassdoor](Glassdoor.com)
+
+* LinkedIn
+
+* Uncubed 
 
 ### Research 
 
-### 
+### Study Resources
+
+### Miscellaneous
+
