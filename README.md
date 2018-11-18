@@ -49,13 +49,13 @@ There are so many internships out there for people interested in tech and studyi
 * [Built In Tech Hub Sites](https://builtin.com/tech-hubs)
   * The Built In tech hub sites are helpul for narrowing in on job opportunities in particular cities! In addition, Built In is a great way to learn about startups and the tech scene of these cities
   * There are currently 7 Built In communities:
-    * Built in Austin
-    * Built in Boston
-    * Built in Chicago
-    * Built in Colorado
-    * Built in LA
-    * Built in NYC
-    * Built in Seattle    
+    * Built in [Austin](https://www.builtinaustin.com/)
+    * Built in [Boston](https://www.builtinboston.com/)
+    * Built in [Chicago](https://www.builtinchicago.org/)
+    * Built in [Colorado](https://www.builtincolorado.com/)
+    * Built in [LA](https://www.builtinla.com/)
+    * Built in [NYC](https://www.builtinnyc.com/)
+    * Built in [Seattle](https://www.builtinseattle.com/)    
   
 ### Research 
 
