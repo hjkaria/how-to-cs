@@ -56,6 +56,8 @@ There are so many internships out there for people interested in tech and studyi
     * Built in [LA](https://www.builtinla.com/)
     * Built in [NYC](https://www.builtinnyc.com/)
     * Built in [Seattle](https://www.builtinseattle.com/)    
+    
+* [r/Internships](https://www.reddit.com/r/internships/) and [r/CSCareerQuestions](https://www.reddit.com/r/cscareerquestions/)
   
 ### Research 
 
