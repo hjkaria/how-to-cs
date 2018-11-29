@@ -62,6 +62,22 @@ There are so many internships out there for people interested in tech and studyi
 ### Research 
 
 ### Study Resources
+* [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 
+* [Leetcode](https://leetcode.com/) 
+* [Hackerrank](https://www.hackerrank.com/)
+* [TopCoder](topcoder.cmo)
+* [Interviewing.io](Interviewing.io)
+* [CodeForces](https://codeforces.com/)
+* [Coderust](coderust.com)
+* [Google Code Jam - Past Contest Problems](https://code.google.com/codejam/past-contests)
+
+* [BaseCS](https://medium.com/basecs)
+* [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+
+* [General Technical Interview Cheatsheet](https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)
+  * Good resource that goes over technical interview Dos and Don'ts
+* [Preparing for a Coding Interview](https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
+  * Great document with study tips and resources
 ### Miscellaneous
 
