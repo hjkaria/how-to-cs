@@ -3,9 +3,7 @@
 
 If there's one thing people should know about Computer Science, it is its inherent *freedom*. There are so many things you can do with it, which translates to so many `opportunities`. Here's a list of things that I've found to be useful, in my time as an undergrad studying computer science at the University at Buffalo. While it's by no means a complete list, it can be a good starting point. 
 
-A/N: all the dates listed reflect dates listed in Fall 2018. 
-
-Follow up note: many opportunities tend to have rolling admission, and priority is given to applications submitted earlier vs. later! Usually a good rule of thumb to apply as soon as you can, instead of delaying.
+A/N: many opportunities tend to have rolling admission, and priority is given to applications submitted earlier vs. later! It's usually a good rule of thumb to apply as soon as you can, instead of delaying.
 
 ---
 ### Internships
@@ -14,11 +12,10 @@ There are so many internships out there for people interested in tech and studyi
 #### Freshman / Sophomore-specific Internships:
 * [Google Engineering Practicum Internship](https://careers.google.com/jobs#!t=jo&jid=/company/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018) (Freshman and Sophomores)
   * Summer software development internship 
-  * Applications are now **closed**, but worth looking at program and keeping it in mind for next year!
 
 * [Facebook University](https://www.facebook.com/careers/students-and-grads/students) (Freshmen Only)
   * Applications for the Engineering track close **December 3rd**
-  * There are tracks for an assortment of interests, including *Engineering* (**due 12/3**), *Operations* (**due 11/30**), *Globan Operating Solutions* (**due 11/30**), *Analytics* (**applications open 12/1-1/15**) and *Product Design* (**applications open 12/1-1/15**)
+  * There are tracks for an assortment of interests, including *Engineering*, *Operations*, *Globan Operating Solutions*, *Analytics* and *Product Design*
   * Summer internship
 
 * [Microsoft Explore](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?jobsource=directemployers&utm_source=directemployers&utm_medium=directemployers&utm_campaign=directemployers-feed#NewYorkNY) (Freshmen and Sophomores)
@@ -27,7 +24,6 @@ There are so many internships out there for people interested in tech and studyi
   
 * [Palantir Path](https://www.palantir.com/students/path/) (Sophomores and Juniors)
   * Summer software development internship for students early in their tech career
-  * Applications and now **closed**, but worth looking at program and keeping it in mind for next year!
   * See this site [here](https://startup.jobs/147462-palantir-path-at-palantir) for more application details and requirements
   
 * [Qualcomm Early Identification Program](https://www.quora.com/When-does-Qualcomms-early-identification-program-application-open-up) (Freshman and Sophomores)
@@ -56,6 +52,10 @@ There are so many internships out there for people interested in tech and studyi
     * Built in [LA](https://www.builtinla.com/)
     * Built in [NYC](https://www.builtinnyc.com/)
     * Built in [Seattle](https://www.builtinseattle.com/)    
+
+* [Jumpstart] Job Board
+  * Jumpstart is a university recruiting platform for engineering students and tech companies
+  * They also have an email digest, events, and other resources for candidates
     
 * [r/Internships](https://www.reddit.com/r/internships/) and [r/CSCareerQuestions](https://www.reddit.com/r/cscareerquestions/)
   
@@ -83,5 +83,3 @@ General tips and advice for technical interviews:
   * Good resource that goes over technical interview Dos and Don'ts
 * [Preparing for a Coding Interview](https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
   * Great document with study tips and resources
-### Miscellaneous
-
