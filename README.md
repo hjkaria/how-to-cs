@@ -1,4 +1,4 @@
-# `How to Computer Science [in Industry]`: A Simple (and Growing) Guide
+# `How to Computer Science [in Industry]`: A Simple (and Growing?) Guide
 ## Disclaimer: I want to point out that there isn't just "one way" to CS and anyone who says that, well... :eyes:. 
 ### This guide was written with students in mind, so most of the resources are tailored towards internships and new grad roles.
 
