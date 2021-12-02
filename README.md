@@ -1,20 +1,22 @@
-# `How to Computer Science`: A Simple (and Growing) Guide
-## Also want to point out that there isn't just "one way" to CS and anyone who says that, well... :eyes:
+# `How to Computer Science [in Industry]`: A Simple (and Growing) Guide
+## Disclaimer: I want to point out that there isn't just "one way" to CS and anyone who says that, well... :eyes:. 
+### This guide was written with students in mind, so most of the resources are tailored towards internships and new grad roles.
 
-If there's one thing people should know about Computer Science, it is its inherent *freedom*. There are so many things you can do with it, which translates to so many `opportunities`. Here's a list of things that I've found to be useful, in my time as an undergrad studying computer science at the University at Buffalo. While it's by no means a complete list, it can be a good starting point. 
+One of the most exciting things about Computer Science and tech is the inherent *freedom*. There are so many things you can do with it, which translates to so many ✨`opportunities`✨. Here's a list of resources that I've found to be useful, in my time as an undergrad studying computer science at the University at Buffalo. While it's by no means a complete list, it can be a good starting point. 
 
-A/N: many opportunities tend to have rolling admission, and priority is given to applications submitted earlier vs. later! It's usually a good rule of thumb to apply as soon as you can, instead of delaying.
+A/N: many opportunities tend to have rolling admission, and priority is given to applications submitted earlier vs. later! It's usually a good rule of thumb to **apply as soon as you can, instead of delaying.**
+
+Last updated: `2 Dec 2021`
 
 ---
 ### Internships
-There are so many internships out there for people interested in tech and studying CS. There are also internships geared towards underclassmen (Freshman and Sophomores). It can be intimidating, applying for jobs -- but the only guaranteed way you won't get the job is if you don't apply!
+There are so many internships out there for people interested in tech and studying CS. There are also internships geared towards underclassmen (Freshman and Sophomores), and students of underrepresented demographics. It can be intimidating, applying for jobs -- but the only guaranteed way you won't get the job is if you don't apply!
 
-#### Freshman / Sophomore-specific Internships:
-* [Google Engineering Practicum Internship](https://careers.google.com/jobs#!t=jo&jid=/company/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018) (Freshman and Sophomores)
+* [Google STEP (Student Training in Engineering) Internship](https://buildyourfuture.withgoogle.com/programs/step/) (First and second-year undergraduate students)
   * Summer software development internship 
+  * Formerly known as Engineering Practicum
 
-* [Facebook University](https://www.facebook.com/careers/students-and-grads/students) (Freshmen Only)
-  * Applications for the Engineering track close **December 3rd**
+* [Facebook University](https://www.facebook.com/careers/students-and-grads/students)
   * There are tracks for an assortment of interests, including *Engineering*, *Operations*, *Globan Operating Solutions*, *Analytics* and *Product Design*
   * Summer internship
 
@@ -27,9 +29,9 @@ There are so many internships out there for people interested in tech and studyi
   * See this site [here](https://startup.jobs/147462-palantir-path-at-palantir) for more application details and requirements
   
 * [Qualcomm Early Identification Program](https://www.quora.com/When-does-Qualcomms-early-identification-program-application-open-up) (Freshman and Sophomores)
-  * Don't know a lot about this program, but check out the linked post to see how access application 
+  * Don't know a lot about this program, but check out the linked post to see how to access application 
 
-#### General intersnhip/job boards (to find opportunities): 
+#### General internship & job boards: 
 * [intern.supply](intern.supply)
   * This site has sooo many internship opportunities available, and is a good place to start looking for general places to apply
 
@@ -59,8 +61,6 @@ There are so many internships out there for people interested in tech and studyi
     
 * [r/Internships](https://www.reddit.com/r/internships/) and [r/CSCareerQuestions](https://www.reddit.com/r/cscareerquestions/)
   
-### Research 
-
 ### Study Resources
 Books: 
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
@@ -83,3 +83,6 @@ General tips and advice for technical interviews:
   * Good resource that goes over technical interview Dos and Don'ts
 * [Preparing for a Coding Interview](https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
   * Great document with study tips and resources
+
+
+That's all, for now! Sometimes I forget about this guide, but I try to add to it every once in awhile. If you have more questions or just want to chat, feel free to reach out on LinkedIn! https://www.linkedin.com/in/heeba/ 
